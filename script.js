@@ -1,4 +1,4 @@
-let next = document.getElementById('next');
+ et next = document.getElementById('next');
 let previous = document.getElementById('prev');
 let imgTag  = document.querySelector('img');
 let i = 0;
